@@ -1,0 +1,14 @@
+# Edit this file to add news items. Shown newest-first automatically.
+# Date format: YYYY-MM-DD
+
+- date: "2026-08-15"
+  title: "Lab paper accepted in Journal of Important Research"
+  summary: "Our study on [topic] has been accepted for publication. Congratulations to everyone involved!"
+
+- date: "2026-05-01"
+  title: "Jordan Lee awarded departmental fellowship"
+  summary: "Congratulations to Jordan on receiving the [Fellowship Name] for the upcoming academic year."
+
+- date: "2026-01-10"
+  title: "Welcome to new lab members"
+  summary: "We're excited to welcome Sam Rivera to the lab this semester."

@@ -1,0 +1,23 @@
+# Edit this file to add publications. Newest first is not required —
+# the page automatically groups and sorts by year, descending.
+
+- year: 2026
+  title: "Title of your most recent paper goes here"
+  authors: "Smith J, Doe A, Lee J"
+  venue: "Journal of Important Research, 45(2), 100-110"
+  pdf_url: ""
+  doi_url: ""
+
+- year: 2025
+  title: "An earlier paper from the lab"
+  authors: "Smith J, Rivera S"
+  venue: "Another Journal, 12(4), 55-70"
+  pdf_url: ""
+  doi_url: ""
+
+- year: 2024
+  title: "Foundational paper establishing the lab's approach"
+  authors: "Smith J"
+  venue: "Proceedings of Some Conference"
+  pdf_url: ""
+  doi_url: ""

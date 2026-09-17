@@ -1,0 +1,59 @@
+# ------------------------------------------------------
+# Lab website configuration
+# Edit these values to customize your site.
+# ------------------------------------------------------
+
+title: "Smith Lab"
+tagline: "Studying [your research area] at [University Name]"
+description: >-
+  We are a research lab in the Department of [Department] at [University],
+  working on [brief description of your lab's research focus].
+
+# Used in the footer and contact page
+university: "University Name"
+department: "Department of Biology"
+address: "123 Science Building, City, ST 00000"
+email: "labname@university.edu"
+
+# Social / external links (leave blank to hide)
+twitter_url: ""
+github_url: "https://github.com/yourlab"
+scholar_url: ""
+linkedin_url: ""
+
+# Navigation bar — order matters
+nav_pages:
+  - title: Home
+    url: /
+  - title: Research
+    url: /research/
+  - title: Team
+    url: /team/
+  - title: Publications
+    url: /publications/
+  - title: News
+    url: /news/
+  - title: Join Us
+    url: /join/
+  - title: Contact
+    url: /contact/
+
+# ------------------------------------------------------
+# GitHub Pages technical settings — usually no need to touch
+# ------------------------------------------------------
+markdown: kramdown
+permalink: pretty
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+collections:
+  people:
+    output: false
+  publications:
+    output: false
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
