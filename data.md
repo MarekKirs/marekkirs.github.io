@@ -4,7 +4,7 @@ title: Data
 permalink: /data/
 ---
 
-# News
+# Data
 
 {% assign news = site.data.news | sort: "date" | reverse %}
 {% for item in news %}
