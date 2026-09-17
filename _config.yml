@@ -3,21 +3,21 @@
 # Edit these values to customize your site.
 # ------------------------------------------------------
 
-title: "Smith Lab"
-tagline: "Studying [your research area] at [University Name]"
+title: "Kirs Lab"
+tagline: "Studying water microbiology at the UNiversity of Hawaii at Manoa"
 description: >-
   We are a research lab in the Department of [Department] at [University],
   working on [brief description of your lab's research focus].
 
 # Used in the footer and contact page
-university: "University Name"
-department: "Department of Biology"
-address: "123 Science Building, City, ST 00000"
-email: "labname@university.edu"
+university: "University Hawaii at Manoa"
+department: "Water Resources Research Center"
+address: "2540 Dole Street, Holmes Hall 283, Honolulu, Hawaii, 96822, USA"
+email: "kirs@hawaii.edu"
 
 # Social / external links (leave blank to hide)
 twitter_url: ""
-github_url: "https://github.com/yourlab"
+github_url: "https://github.com/kirslab"
 scholar_url: ""
 linkedin_url: ""
 
@@ -31,8 +31,8 @@ nav_pages:
     url: /team/
   - title: Publications
     url: /publications/
-  - title: News
-    url: /news/
+  - title: Data
+    url: /data/
   - title: Join Us
     url: /join/
   - title: Contact
