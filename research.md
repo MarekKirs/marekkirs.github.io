@@ -16,7 +16,7 @@ Objective: support application of meaningful and protective water quality standa
 
 Microbial communities as indicators of aquafier health and its change...
 
-## Research area 3: Environmental pathogens...sources, ecology, risk
+## Research area 3: Environmental pathogens: distribution, ecology, and risk factors
 
 We are interested in non-enteric pathogens, such as vibrios, *Leptospira*, *Staphylococci*,  and others, that are often naturally present in the environment and pose risk to human health. Understanding their distribution and ecology helps to manage the risk. 
 
