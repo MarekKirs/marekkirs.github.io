@@ -26,7 +26,7 @@
   priority: high
   link: "https://www.so-low.com/coldstorage-85upright#heavyduty"
 
-- item: "qPCR machine by BioRad"
+- item: "qPCR Detection System by BioRad"
   description: "We need a new qPCR system for accurate quantification microbes"
   estimated_cost: "$40K"
   priority: medium
