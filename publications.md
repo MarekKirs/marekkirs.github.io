@@ -17,7 +17,7 @@ permalink: /publications/
     <div class="pub-venue">{{ pub.venue }}</div>
     <div class="pub-links">
       {% if pub.pdf_url != "" %}<a href="{{ pub.pdf_url }}">PDF</a>{% endif %}
-      {% if pub.doi_url != "" %}<a href="{{ pub.doi_url }}">DOI</a>{% endif %}
+      {% if pub.doi_url != "" %}<a href="https://doi.org/{{ pub.doi_url }}">DOI</a>{% endif %}
     </div>
   </li>
   {% endfor %}
