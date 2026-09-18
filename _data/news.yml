@@ -1,17 +1,21 @@
 # Edit this file to add news items. Shown newest-first automatically.
 # Date format: YYYY-MM-DD
+- date: "2026-09-19"
+  title: "HI-ASM Fall Meeting 2016"
+  summary: "We participated in the HI-ASM fall meeting"
+  link: "https://www.hi-asm.org/event-registration-temp-1"
 
-- date: "2026-09-17 - 2026-09-18"
+- date: "2026-09-18"
   title: "MinION/Nanopore Training"
-  summary: "We were working though some samples  using our new MinION"
+  summary: "We were working though some samples  using our new MinION during this two day workshop"
 
 - date: "2026-08-31"
-  title: "Nu presented a seminar"
-  summary: "Nu presenter on [topic] in Life Sciences!"
+  title: "Nu opened Microbiology seminar series this semester"
+  summary: "Nu presented on "\Microbial Ecology of Oahu aquifers\" in Life Sciences!"
   
 - date: "2026-08-20"
-  title: "Diksha presented a seminar at the HOST Park"
-  summary: "Diksha presenter a seminar \"Rapid Detection and Management of Vibrio Pathogens\"  at the Hawaii Ocean Science and Technology (HOST) Park (Hilo, Hawaii Island)"
+  title: "Diksha presented at the HOST Park"
+  summary: "Diksha presented a seminar \"Rapid Detection and Management of Vibrio Pathogens\"  at the Hawaii Ocean Science and Technology (HOST) Park (Hilo, Hawaii Island)"
   photo: "/assets/images/people/host.jpg"
 
 - date: "2026-08-14"
