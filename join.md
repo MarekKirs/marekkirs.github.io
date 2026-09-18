@@ -11,20 +11,17 @@ collaborators. A few notes on current opportunities:
 
 ## Graduate students
 
-Describe how prospective grad students should apply — usually through a
-specific department/program's admissions process. Mention if you're
-actively recruiting.
+Prospective grad students should apply through microbiology graduate program at the School opf Life sciences  or though  a graduate program at the department of Civil, Environmental and Construction Engineering. Please contact us before applying to discuss these opportunities.
+
 
 ## Postdoctoral researchers
 
-Describe funding availability, ideal background, and how to reach out.
-It's common to ask applicants to email a CV, a brief statement of
-research interests, and contact info for 2-3 references.
+We currently do not have funded postdoctoral opportunities. 
+
 
 ## Undergraduate researchers
 
-Describe how undergrads at your institution can get involved (e.g.,
-independent study credit, work-study, volunteer research).
+We typically advertise job opportunities through UH Manoa SECE system. UROP funded opportunities, and voilunteering opportunities exist. We have guided several GES projects.
 
 ## Middle/High School researchers
 
