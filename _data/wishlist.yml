@@ -1,0 +1,27 @@
+# Edit this file to add or remove wishlist items.
+# 'priority' is optional (high/medium/low) and just affects a small badge.
+# 'link' is optional — point it at a product page/quote if you have one.
+
+- item: "MinION Flow Cells (10-pack)"
+  description: "Consumable flow cells for our Oxford Nanopore MinION sequencer, used for rapid pathogen identification and microbial community sequencing."
+  estimated_cost: "$900"
+  priority: high
+  link: ""
+
+- item: "Portable field incubator"
+  description: "Battery-powered incubator for on-site sample processing during remote field sampling trips to outer islands."
+  estimated_cost: "$450"
+  priority: medium
+  link: ""
+
+- item: "qPCR reagent kit"
+  description: "Reagents for quantitative PCR-based detection of fecal indicator bacteria and pathogens."
+  estimated_cost: "$1,200"
+  priority: high
+  link: ""
+
+- item: "Laptop for field data collection"
+  description: "Ruggedized laptop for logging field data and running portable sequencing analysis away from the lab."
+  estimated_cost: "$1,800"
+  priority: low
+  link: ""
