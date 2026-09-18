@@ -20,9 +20,17 @@ Microbial communities as indicators of aquafier health and its change...
 
 Leptospira
 
+*Staphylococcus*
+
 Vibrios
 
-...
+## Research area $: Various
+
+Microbes in roof-harvested rainwater
+
+Impacts on site wastewater treatment systems
+
+
 
 Add as many research areas as your lab covers. Consider adding a figure or
 diagram for each — drop images into `/assets/images/` and reference them with:
