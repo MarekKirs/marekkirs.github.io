@@ -2,42 +2,57 @@
 # 'group' controls which section they appear under on the Team page.
 # Valid groups: pi, postdoc, grad, undergrad, staff, alumni
 
-- name: "Dr. Jane Smith"
-  role: "Principal Investigator"
+- name: "Dr. Marek Kirs"
+  role: "Associate Researcher, Principal Investigator"
   group: pi
-  photo: "/assets/images/people/jane-smith.jpg"
-  bio: "Jane received her PhD from [University] and completed postdoctoral work at [Institution] before starting the lab in [Year]."
-  email: "jsmith@university.edu"
+  photo: "/assets/images/people/kirs.jpg"
+  bio: "Marek received his PhD from University of Rhode Island and completed postdoctoral work at the University of North Carolina at Chapel Hill before starting the lab in 2011."
+  email: "kirs@hawaii.edu"
   website: ""
 
-- name: "Alex Doe"
-  role: "Postdoctoral Researcher"
-  group: postdoc
-  photo: "/assets/images/people/alex-doe.jpg"
-  bio: "Alex works on [research topic], joining the lab in [Year] from [Previous institution]."
-  email: ""
-  website: ""
+#- name: "Alex Doe"
+#  role: "Postdoctoral Researcher"
+#  group: postdoc
+#  photo: "/assets/images/people/alex-doe.jpg"
+#  bio: "Alex works on [research topic], joining the lab in [Year] from [Previous institution]."
+#  email: ""
+#  website: ""
 
-- name: "Jordan Lee"
+- name: "Nu Jahat Jabin"
   role: "PhD Student"
   group: grad
-  photo: "/assets/images/people/jordan-lee.jpg"
-  bio: "Jordan studies [research topic] as part of their dissertation work."
+  photo: "/assets/images/people/nu.jpg"
+  bio: "Nu studies microbial communities in Hawaii aquafiers as part of her dissertation work."
   email: ""
   website: ""
 
-- name: "Sam Rivera"
-  role: "Undergraduate Researcher"
-  group: undergrad
-  photo: "/assets/images/people/sam-rivera.jpg"
-  bio: "Sam is a [year] majoring in [major], working on [project]."
+- name: "Diksha Poojari"
+  role: "PhD Student"
+  group: grad
+  photo: "/assets/images/people/diksha.jpg"
+  bio: "Diksha studies vibrios in Hawaii aquaculture systems as part of her dissertation work."
+  email: ""
+  website: ""
+  
+- name: "Maria Karameli Telea"
+  role: "PhD Student"
+  group: grad
+  photo: "/assets/images/people/maria.jpg"
+  bio: "Kara studies Leptospira in American Samoa as part of her dissertation work."
   email: ""
   website: ""
 
-- name: "Dr. Taylor Kim"
-  role: "PhD, now at [Company/Institution]"
+#- name: "Sam Rivera"
+#  role: "Undergraduate Researcher"
+#  group: undergrad
+#  photo: "/assets/images/people/sam-rivera.jpg"
+#  bio: "Sam is a [year] majoring in [major], working on [project]."
+#  email: ""
+#  website: ""
+
+- name: "Joslyn Hugger"
+  role: "MSc"
   group: alumni
-  photo: ""
-  bio: ""
-  email: ""
-  website: ""
+- name: "Eduardo Guimaraes"
+  role: "MSc"
+  group: alumni 
