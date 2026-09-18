@@ -14,17 +14,10 @@ quickly to emerging water-quality concerns in our island communities.
 
 ## Ways to give
 
-Describe your actual giving mechanism here — for example, many
-University of Hawaiʻi labs route gifts through the **UH Foundation**,
-which can direct funds to a specific lab or fund account. Typical
-wording:
-
-> Gifts can be made online through the University of Hawaiʻi
-> Foundation. Please note "[Kirs Lab / Fund Name]" in the designation
-> field so your gift is directed to our research.
+Gifts can be made online through the University of Hawaiʻi Foundation. Please note Microbial Water Quality Research (account number 126-9910-4) or Water Quality Proj (account number 120-9710-4)  in the designation field so your gift is directed to our research.
 
 <p>
-  <a href="#" class="donate-button">Give Online</a>
+  <a href="[#](https://give.uhfoundation.org/campaigns/63435/donations/new)" class="donate-button">Give Online</a>
 </p>
 
 *(Replace the `#` above with your actual UH Foundation giving-page
