@@ -11,7 +11,7 @@ collaborators. A few notes on current opportunities:
 
 ## Graduate students
 
-Prospective grad students should apply through microbiology graduate program at the School opf Life sciences  or though  a graduate program at the department of Civil, Environmental and Construction Engineering. Please contact us before applying to discuss these opportunities.
+Prospective grad students should apply through microbiology graduate program at the School of Life sciences  or though  a graduate program at the department of Civil, Environmental and Construction Engineering. Please contact us before applying to discuss any of those opportunities.
 
 
 ## Postdoctoral researchers
