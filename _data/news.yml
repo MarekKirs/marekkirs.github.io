@@ -1,14 +1,18 @@
 # Edit this file to add news items. Shown newest-first automatically.
 # Date format: YYYY-MM-DD
 
-- date: "2026-08-15"
-  title: "Lab paper accepted in Journal of Important Research"
-  summary: "Our study on [topic] has been accepted for publication. Congratulations to everyone involved!"
+- date: "2026-09-17 - 2026-09-18"
+  title: "MinION/Nanopore Training"
+  summary: "We were working though some samples  using our new MinION"
 
-- date: "2026-05-01"
-  title: "Jordan Lee awarded departmental fellowship"
-  summary: "Congratulations to Jordan on receiving the [Fellowship Name] for the upcoming academic year."
+- date: "2026-08-31"
+  title: "Nu presented a seminar"
+  summary: "Nu presenter on [topic] in Life Sciences!"
 
-- date: "2026-01-10"
-  title: "Welcome to new lab members"
-  summary: "We're excited to welcome Sam Rivera to the lab this semester."
+- date: "2026-08-14"
+  title: "A new paper has been accepted"
+  summary: "Our MST study in American Samoahas has been accepted for publication in Water Research. Congratulations to everyone involved!."
+
+#- date: "2026-01-10"
+#  title: "Welcome to new lab members"
+#  summary: "We're excited to welcome Sam Rivera to the lab this semester."
