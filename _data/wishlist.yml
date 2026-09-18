@@ -16,7 +16,7 @@
 
 - item: "ProDSS Multiparameter Digital Water Quality Meter by YSI"
   description: "Handheld device to measure dissolved oxygen, turbidity, pH, conductivity, salinity, etc at site"
-  estimated_cost: "$6-10K with cables and sensors included"
+  estimated_cost: "$8-12K with cables and sensors included"
   priority: high
   link: "https://www.ysi.com/prodss"
   
@@ -33,7 +33,7 @@
   link: "https://www.bio-rad.com/en-us/category/pcr-qpcr"
 
 - item: "Lab supplies"
-  description: "any lab supplies, new or used"
+  description: "Lab supplies, new or used"
   estimated_cost: "$various"
   priority: low
   link: ""
