@@ -33,4 +33,4 @@ Interested applicants should email **{{ site.email }}** with:
 
 - A short paragraph on your research interests and why you're interested in the lab
 - A CV or resume
-- (For postdoc applicants) contact information for 2-3 references
+- For postdoc applicants contact information for 2-3 references
