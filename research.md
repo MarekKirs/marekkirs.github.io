@@ -6,20 +6,23 @@ permalink: /research/
 
 # Research
 
-Give a 2-3 sentence overview of your lab's overarching research mission here — what
-big question you're trying to answer and why it matters.
+Overreaching goal is.....
 
-## Research area 1: [e.g., Phage-bacteria interactions]
+## Research area 1: Recreational water quality: Microbial Siurce Tracking and QMRA
 
-Describe the specific question, your approach, and 1-2 key findings or ongoing
-directions. Keep each section to a short paragraph — link out to publications
-for detail.
+Objective: support application of meaningful and protective water quality standards... inlcudes validation and development of MST methods
 
-## Research area 2: [e.g., Antibiotic resistance mechanisms]
+## Research area 2: Microbial communities in aquafiers
 
-Describe the specific question, your approach, and current status of the work.
+Microbial communities as indicators of aquafier health and its change...
 
-## Research area 3: [optional]
+## Research area 3: Pathogens...sources, ecology, risk
+
+Leptospira
+
+Vibrios
+
+...
 
 Add as many research areas as your lab covers. Consider adding a figure or
 diagram for each — drop images into `/assets/images/` and reference them with:
