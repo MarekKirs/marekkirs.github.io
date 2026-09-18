@@ -21,7 +21,7 @@ We currently do not have funded postdoctoral opportunities.
 
 ## Undergraduate researchers
 
-We typically advertise job opportunities through UH Manoa SECE system. UROP funded opportunities, and voilunteering opportunities exist. We have guided several GES projects.
+We typically advertise job opportunities through UH Manoa SECE system. UROP funded opportunities, and volunteering opportunities exist. We have guided several GES projects.
 
 ## Middle/High School researchers
 
