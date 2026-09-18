@@ -4,27 +4,19 @@
 - year: 2026
 
   title: "Integrating microbial source tracking with fecal indicator bacteria monitoring improves water quality assessment in tropical island watersheds"
-  authors: "Jabin NJ, Scanlan T., Solaita P., Kirs M."
+  authors: "Jabin NJ, Scanlan T, Solaita P, Kirs M"
   venue: "Water Research 307:126735"
   pdf_url: "https://https://www.sciencedirect.com/science/article/abs/pii/S0043135426014090"
   doi_url: "10.1016/j.watres.2026.126735"
   
   title: "Biodiversity, Distribution and Ecological Interactions of Algal-Bacterial Biofilms in Wastewater Treatment Systems"
-  authors: "Lin A, Ghosh S, Kirs M, Wang Z."
+  authors: "Lin A, Ghosh S, Kirs M, Wang Z"
   venue: "Environ Microbiology 28(5):e70303"
   pdf_url: "https://enviromicro-journals.onlinelibrary.wiley.com/doi/abs/10.1111/1462-2920.70303"
   doi_url: "10.1111/1462-2920.70303"
 
 - year: 2025
-  title: "An earlier paper from the lab"
-  authors: "Smith J, Rivera S"
-  venue: "Another Journal, 12(4), 55-70"
-  pdf_url: ""
-  doi_url: ""
+  
 
 - year: 2024
-  title: "Foundational paper establishing the lab's approach"
-  authors: "Smith J"
-  venue: "Proceedings of Some Conference"
-  pdf_url: ""
-  doi_url: ""
+ 
