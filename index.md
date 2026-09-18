@@ -30,7 +30,7 @@ title: KirsLab
 ## Latest news
 
 {% assign news = site.data.news | sort: "date" | reverse %}
-{% for item in news limit: 3 %}
+{% for item in news limit: 6 %}
 <div class="news-item">
   <div class="news-date">{{ item.date }}</div>
   <strong>{{ item.title }}</strong>
