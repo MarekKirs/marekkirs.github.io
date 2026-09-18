@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-Overreaching goal is.....
+Overarching goal is.....
 
 ## Research area 1: Recreational water quality: Microbial indicators, Microbial Source Tracking (MST), enteric pathogens, and QMRA
 
