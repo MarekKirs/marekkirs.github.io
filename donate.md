@@ -30,7 +30,7 @@ Gifts can be made online through the University of Hawaiʻi Foundation. Please s
 ## Other ways to help
 
 If you'd prefer to discuss a gift, sponsor a specific project, or
-explore other ways to support the lab (equipment donation, internship
+explore other ways to support the lab ([equipment donation]({{ '/wishlist/' | relative_url }}), internship
 funding, etc.), please reach out directly:
 
 **{{ site.email }}**
