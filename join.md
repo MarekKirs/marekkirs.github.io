@@ -26,6 +26,10 @@ research interests, and contact info for 2-3 references.
 Describe how undergrads at your institution can get involved (e.g.,
 independent study credit, work-study, volunteer research).
 
+## Middle/High School researchers
+
+We support 1-2 science fair projects every year.
+
 ## Contact
 
 Interested applicants should email **{{ site.email }}** with:
