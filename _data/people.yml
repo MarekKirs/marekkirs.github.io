@@ -53,6 +53,14 @@
 - name: "Joslyn Hugger"
   role: "MSc"
   group: alumni
+  photo: ""
+  bio: ""
+  email: ""
+  website: ""
 - name: "Eduardo Guimaraes"
   role: "MSc"
-  group: alumni 
+  group: alumni
+  photo: ""
+  bio: ""
+  email: ""
+  website: ""
