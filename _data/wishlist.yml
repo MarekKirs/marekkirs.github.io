@@ -4,7 +4,7 @@
 
 - item: "Autoclave (Steam Sterilizer)"
   description: "We are in need of a new autoclave, similar to AMSCO 400 or 600."
-  estimated_cost: "$50-60K"
+  estimated_cost: "$60K"
   priority: high
   link: "https://www.steris.com/healthcare/products/steam-sterilizers"
 
@@ -22,7 +22,7 @@
   
 - item: "Ultra low temperature freezer"
   description: "a large upright freezer to keep our precious samples at -80C, larget the better"
-  estimated_cost: "$8-12K"
+  estimated_cost: "$10-15K"
   priority: high
   link: "https://www.so-low.com/coldstorage-85upright#heavyduty"
 
