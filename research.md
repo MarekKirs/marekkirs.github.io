@@ -24,7 +24,7 @@ Leptospira
 
 Vibrios
 
-## Research area $: Various
+## Research area 4: Various
 
 Microbes in roof-harvested rainwater
 
