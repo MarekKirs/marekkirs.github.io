@@ -8,7 +8,7 @@ permalink: /research/
 
 Overreaching goal is.....
 
-## Research area 1: Recreational water quality: Microbial Siurce Tracking and QMRA
+## Research area 1: Recreational water quality: Microbial indicators, Microbial Source Tracking (MST), enteric pathogens, and QMRA
 
 Objective: support application of meaningful and protective water quality standards... inlcudes validation and development of MST methods
 
@@ -16,7 +16,7 @@ Objective: support application of meaningful and protective water quality standa
 
 Microbial communities as indicators of aquafier health and its change...
 
-## Research area 3: Pathogens...sources, ecology, risk
+## Research area 3: Environmental Pathogens...sources, ecology, risk
 
 Leptospira
 
