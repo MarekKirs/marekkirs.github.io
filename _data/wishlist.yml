@@ -30,7 +30,7 @@
   description: "We need a new qPCR system for accurate quantification microbes"
   estimated_cost: "$40K"
   priority: medium
-  link: "https://www.bio-rad.com/en-us/category/pcr-qpcr"
+  link: "https://www.bio-rad.com/amplification"
 
 - item: "Lab supplies"
   description: "Lab supplies, new or used"
