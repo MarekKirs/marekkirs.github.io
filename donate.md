@@ -20,8 +20,6 @@ Gifts can be made online through the University of Hawaiʻi Foundation. Please n
   <a href="https://give.uhfoundation.org/campaigns/63435/donations/new" class="donate-button">Give Online</a>
 </p>
 
-*(Replace the `#` above with your actual UH Foundation giving-page
-link once you have it.)*
 
 ## What your gift supports
 
