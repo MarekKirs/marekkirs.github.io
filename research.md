@@ -24,11 +24,6 @@ We are interested in non-enteric pathogens, such as vibrios, *Leptospira*, *Stap
 
 We are interested in alternative water resource such as roof-harvested rainwater and water, including wastewaater, treatment options.
 
-
-
-Add as many research areas as your lab covers. Consider adding a figure or
-diagram for each — drop images into `/assets/images/` and reference them with:
-
 ```markdown
 ![Alt text](/assets/images/your-figure.png)
 ```
@@ -37,8 +32,7 @@ diagram for each — drop images into `/assets/images/` and reference them with:
 
 - Clean Water Branch, Hawaii Department of Health / Microbial Water Quality Indicators and Associated Health Risk in Hawaii’s Recreational Waters 2026-2028
 - Clean Water Branch, Hawaii Department of Health / The Microbiological Water Quality of Oahu Beaches 2026-2031
-- Hawaii Sea Grant, NOAA / Rapid Detection and Management of Vibrio Pathogens in Shellfish Hatcheries and Coral Nurseries in Hawaii 2026-2028
+- Hawaii Sea Grant, NOAA / Rapid Detection and Management of *Vibrio* Pathogens in Shellfish Hatcheries and Coral Nurseries in Hawaii 2026-2028
 - WRIP, USGS / 104b Animal reservoirs of pathogenic *Leptospira* in American Samoa 2024-2026
 - City and County of Honolulu / Biological and Sediment Study on Marine Communities Near the City Ocean Sewer Outfalls 2022-2027
-- 
-- 
+
