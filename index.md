@@ -12,7 +12,7 @@ title: KirsLab
 <div class="hero-highlights">
   <div class="highlight-card">
     <h3>Research</h3>
-    <p>We study [core question] using [key methods/model systems].</p>
+    <p>You can learn more about out research here.</p>
     <a href="{{ '/research/' | relative_url }}">Learn more &rarr;</a>
   </div>
   <div class="highlight-card">
