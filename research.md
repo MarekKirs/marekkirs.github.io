@@ -26,8 +26,6 @@ We are interested in alternative water resource such as roof-harvested rainwater
 
 
 
-
-
 Add as many research areas as your lab covers. Consider adding a figure or
 diagram for each — drop images into `/assets/images/` and reference them with:
 
