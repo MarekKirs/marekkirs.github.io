@@ -1,0 +1,20 @@
+# Edit this file to add datasets/code linked to lab manuscripts.
+# Put the actual files in assets/data/<a-short-slug>/ (one folder per
+# manuscript) and point raw_data_file / code_file at that path.
+# Leave a field as "" to hide that link/badge for an entry.
+
+- title: "Integrating microbial source tracking with fecal indicator bacteria monitoring improves water quality assessment in tropical island watersheds"
+  authors: "Jabin NJ, Scanlan T, Solaita P, Kirs M"
+  venue: "Water Research 307:126735 (2026)"
+  doi_url: "10.1016/j.watres.2026.126735"
+  raw_data_file: "/assets/data/2026-mst-samoa/raw-data.xlsx"
+  code_file: "/assets/data/2026-mst-samoa/analysis-code.txt"
+  notes: ""
+
+- title: "Biodiversity, Distribution and Ecological Interactions of Algal-Bacterial Biofilms in Wastewater Treatment Systems"
+  authors: "Lin A, Ghosh S, Kirs M, Wang Z"
+  venue: "Environ Microbiology 28(5):e70303 (2026)"
+  doi_url: "10.1111/1462-2920.70303"
+  raw_data_file: ""
+  code_file: ""
+  notes: "Data available upon request."
