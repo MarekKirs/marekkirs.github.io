@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-Overarching goal is.....
+The Kirs Lab studies microbial water quality across Hawaiʻi and the Pacific Islands to protect public health and support sustainable water resource use. 
 
 ## Research area 1: Recreational water quality: Microbial indicators, Microbial Source Tracking (MST), enteric pathogens, and QMRA
 
@@ -26,7 +26,7 @@ We also contribute to the state of Hawaii beach-water quality monitoring program
 
 ## Research area 2: Safe drinking water: Microbial communities in aquafiers
 
-Most of Hawaiʻi’s drinking water comes from deep groundwater aquifers. These water sources are routinely monitored for microbial indicators ( total coliforms and Escherichia coli) to identify wells that may have been affected by microbial contaminants. Deep groundwater is often thought of as a biologically inactive environment—a vast underground reservoir largely devoid of life. Our research, however, has shown that Hawaiʻi’s deep aquifers harbor remarkably diverse microbial communities.
+Most of Hawaiʻi’s drinking water comes from volcanic aquifers, including both deep basal groundwater and dike-impounded water. These water sources are routinely monitored for microbial indicators (total coliforms and *Escherichia coli*) to identify groundwater wells that may have been affected by microbial contaminants. Deep groundwater is often thought of as a biologically inactive environment—a vast underground reservoir largely devoid of life. Our research, however, has shown that Hawaiʻi’s deep aquifers harbor remarkably diverse microbial communities.
 
 These microorganisms are an integral part of the groundwater ecosystem, contributing to nutrient cycling and the transformation and degradation of contaminants. Our work suggests that understanding microbial water quality requires a more holistic approach than monitoring a small number of indicator organisms alone. Changes in groundwater microbial communities can provide valuable information about changes in the surrounding environment, including the introduction or movement of contaminants such as pesticides and petroleum hydrocarbons.
 
@@ -37,11 +37,18 @@ Our goal is to move beyond a narrow definition of microbial water quality and de
 
 ## Research area 3: Environmental pathogens: distribution, ecology, and risk factors
 
-We are interested in non-enteric pathogens, such as vibrios, *Leptospira*, *Staphylococci*,  and others, that are often naturally present in the environment and pose risk to human health. Understanding their distribution and ecology helps to manage the risk. 
+Sewage is not the only problem. Many important diseases are caused by environmental and zoonotic pathogens that occur naturally in soils, freshwater, marine environments, or animal populations and are not specifically addressed by conventional water-quality monitoring programs.
+
+Our laboratory investigates pathogens such as vibrios, leptospires, staphylococci and others, to better understand their distribution, ecology, environmental persistence, and potential routes of exposure. Vibrio species are naturally occurring marine bacteria, some of which can cause disease in humans, corals, and shellfish. Pathogenic Leptospira are associated with animal hosts and can enter freshwater through animal urine, creating a potential risk to people exposed to contaminated streams, rainwater puddles, stormwater, and other surface waters. Staphylococcus species are commonly associated with humans and animals and include strains capable of causing disease.
+
+Understanding where these pathogens occur, how they get transported or persist in water environments, and what environmental conditions contribute is essential for assessing and managing health risks. By studying these organisms in their environmental context, our research helps identify risks that may not be captured by traditional fecal-indicator monitoring and provides information needed to develop more targeted approaches to water-quality management.
+
 
 ## Research area 4: Various topics
 
-We are interested in alternative water resource such as roof-harvested rainwater and water, including wastewaater, treatment options.
+We are interested in alternative water resources, including roof-harvested rainwater, as well as innovative approaches to water and wastewater treatment and reuse. Our research evaluates the microbiological quality of these water sources and treatment systems, with the goal of understanding potential health risks and identifying approaches that can support safe and sustainable water use.
+
+The mission of our Water Resources Research Center is to support Hawaiʻi in addressing its water-resource challenges. As part of this mission, our laboratory provides microbiological expertise and research support to state agencies as emerging water-quality issues arise. We work collaboratively with agencies to investigate microbial contamination, identify potential sources and health risks, and develop scientifically based approaches for addressing microbiological water-quality concerns.
 
 ```markdown
 ![Alt text](/assets/images/your-figure.png)
