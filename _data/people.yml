@@ -50,6 +50,20 @@
 #  email: ""
 #  website: ""
 
+- name: "Dr. Gayatri Vithanage"
+  role: "postdoc"
+  group: alumni
+  photo: ""
+  bio: ""
+  email: ""
+  website: ""
+- name: "Dr. Roberto A. Caffaro-Filho"
+  role: "postdoc"
+  group: alumni
+  photo: ""
+  bio: ""
+  email: ""
+  website: ""
 - name: "Joslyn Hugger"
   role: "MSc"
   group: alumni
@@ -64,3 +78,18 @@
   bio: ""
   email: ""
   website: ""
+- name: "Sierra Lopez"
+  role: "GES student"
+  group: alumni
+  photo: ""
+  bio: ""
+  email: ""
+  website: ""
+- name: "Jaline Seruge"
+  role: "GES student"
+  group: alumni
+  photo: ""
+  bio: ""
+  email: ""
+  website: ""
+
