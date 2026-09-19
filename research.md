@@ -22,11 +22,18 @@ Our research examines conventional and alternative microbial indicators, microbi
 
 An important component of our research is recognizing that contamination sources can vary substantially among watersheds, from ahupuaʻa to ahupuaʻa. We develop and evaluate methods for identifying and distinguishing sources of fecal contamination, allowing us to characterize watersheds according to their dominant contamination sources. Identifying the source is critical because we cannot effectively manage contamination unless we know where it is coming from.
 
-We also contribute to Hawaii beach-water quality monitoring programs. 
+We also contribute to the state of Hawaii beach-water quality monitoring program. 
 
 ## Research area 2: Safe drinking water: Microbial communities in aquafiers
 
-Microbial communities as indicators of aquafier health and its change...
+Most of Hawaiʻi’s drinking water comes from deep groundwater aquifers. These water sources are routinely monitored for microbial indicators ( total coliforms and Escherichia coli) to identify wells that may have been affected by microbial contaminants. Deep groundwater is often thought of as a biologically inactive environment—a vast underground reservoir largely devoid of life. Our research, however, has shown that Hawaiʻi’s deep aquifers harbor remarkably diverse microbial communities.
+
+These microorganisms are an integral part of the groundwater ecosystem, contributing to nutrient cycling and the transformation and degradation of contaminants. Our work suggests that understanding microbial water quality requires a more holistic approach than monitoring a small number of indicator organisms alone. Changes in groundwater microbial communities can provide valuable information about changes in the surrounding environment, including the introduction or movement of contaminants such as pesticides and petroleum hydrocarbons.
+
+Microbial communities may also influence how vulnerable different aquifers are to contamination. Because microbial communities vary among groundwater systems, their capacity to transform or degrade particular contaminants may also differ, potentially affecting how contaminants persist in the environment. Importantly, microbial community composition may also provide a measure of ecosystem recovery: following remediation or the cessation of a contamination source, changes in the microbial community could help indicate whether groundwater conditions are returning toward their previous healthier state.
+
+Our goal is to move beyond a narrow definition of microbial water quality and develop a more comprehensive understanding of the relationship between groundwater microbial communities, environmental change, and drinking-water quality.
+
 
 ## Research area 3: Environmental pathogens: distribution, ecology, and risk factors
 
