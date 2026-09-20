@@ -6,11 +6,11 @@ permalink: /publications/
 
 # Publications
 
-{% assign pubs_by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
-{% for year_group in pubs_by_year %}
-<h2 class="pub-year">{{ year_group.name }}</h2>
+{% assign pubs_by_group = site.data.publications | group_by: "group" | sort: "name" | reverse %}
+{% for group in pubs_by_group %}
+<h2 class="pub-year">{{ group.name }}</h2>
 <ul class="pub-list">
-  {% for pub in year_group.items %}
+  {% for pub in group.items %}
   <li>
     <div class="pub-title">{{ pub.title }}</div>
     <div class="pub-authors">{{ pub.authors }}</div>
