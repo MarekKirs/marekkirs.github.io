@@ -10,7 +10,7 @@ permalink: /courses/
 
 **Prerequisites:** BIOL 171 and CHEM 272, or consent
 
-Microbes are everywhere and life on Earth depends on them. They inhabit virtually every environment, from the deepest oceans and volcanic soils to groundwater, coral reefs, and the human body. They recycle the elements that sustain life, shape ecosystems, influence climate, cause and prevent disease, and can even be harnessed to clean polluted environments and treat water.
+Microbes are everywhere and life on Earth depends on them. They inhabit virtually every environment, from the deepest oceans and volcanic soils to groundwater, coral reefs, and the human body. They recycle the elements that sustain life, shape ecosystems, influence climate, cause and prevent disease, and can even be harnessed to clean polluted environments and treat water. Every other breath we take is made possible by microbial life.
 
 In this course, we explore who microbes are, what they do, and why they matter. We begin with microbial diversity: from viruses and bacteria to archaea, fungi, protists, and other microbial eukaryotes and the methods scientists use to study them. We then examine how microorganisms drive major biogeochemical cycles and shape microbial communities across marine, freshwater, soil, and host-associated environments. Particular attention is given to water and environmental microbiology, including pollution, waterborne pathogens, disease transmission, water quality, antibiotic resistance, water treatment, and quantitative microbial risk assessment. We also explore microbial applications in bioremediation, harmful algal blooms, and water treatment, as well as the microbiomes of soils, corals, and humans.
 
