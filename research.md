@@ -50,9 +50,8 @@ We are interested in alternative water resources, including roof-harvested rainw
 
 The mission of our Water Resources Research Center is to support Hawaiʻi in addressing its water-resource challenges. As part of this mission, our laboratory provides microbiological expertise and research support to state agencies as emerging water-quality issues arise. We work collaboratively with agencies to investigate microbial contamination, identify potential sources and health risks, and develop scientifically based approaches for addressing microbiological water-quality concerns.
 
-```markdown
 ![research focus](/assets/images/what.jpg)
-```
+
 
 ## Funding
 
