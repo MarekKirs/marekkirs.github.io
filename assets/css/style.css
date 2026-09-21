@@ -11,6 +11,12 @@
 }
 
 * { box-sizing: border-box; }
+/* Images */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
 
 body {
   margin: 0;
