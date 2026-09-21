@@ -56,7 +56,6 @@ This is an in-person, 3-credit lecture course, meeting three hours per week. The
 - Waterborne Pathogens, Disease Transmission, and Global Change
 - Water Quality Regulations, Epidemiological Studies, and QMRA
 - Recreational Water Quality and Hawaiʻi
-- Antibiotic Resistance and Phage Therapy
 
 *Exam 3 covers Module 3*
 
@@ -66,6 +65,7 @@ This is an in-person, 3-credit lecture course, meeting three hours per week. The
 - Phytoplankton Blooms (Sverdrup, Bernfeld, upwelling, turnover) and their seasonal dynamics. Phycotoxins (types, effect, monitoring and regulations)
 - Microbial Communities in Soils
 - Soils: Rhizosphere and Mycorrhizae
+- Antibiotic Resistance and Phage Therapy
 - Coral Microbiome
 - Human Microbiome
 
