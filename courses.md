@@ -64,7 +64,7 @@ This is an in-person, 3-credit lecture course, meeting three hours per week. The
 **Module 4: Environments 2**
 - Biodegradation and Bioremediation
 - Microbes in Water Treatment & Disinfection: wastewater and drinking water
-- Phytoplankton Blooms (Sverdrup, Bernfeld, upwelling, turnover) and Phycotoxins (types, effect, monitoring and regulations)
+- Phytoplankton Blooms (Sverdrup, Bernfeld, upwelling, turnover) and their seasonal dynamics. Phycotoxins (types, effect, monitoring and regulations)
 - Microbial Communities in Soils
 - Soils: Rhizosphere and Mycorrhizae
 - Coral Microbiome
