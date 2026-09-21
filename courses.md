@@ -41,7 +41,6 @@ This is an in-person, 3-credit lecture course, meeting three hours per week. The
 
 **Module 2: Biogeochemical Cycles**
 - Microbes and the Carbon Cycle
-- Microbes and the Carbon Cycle; Microbes and the Nitrogen Cycle
 - Microbes and the Nitrogen Cycle
 - Microbes and the Phosphorus and Sulfur Cycles
 - Microbes and Iron and other metals
