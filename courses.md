@@ -10,18 +10,13 @@ permalink: /courses/
 
 **Prerequisites:** BIOL 171 and CHEM 272, or consent
 
-Microbes are everywhere, and they drive our planet. The course
-explores the tremendous diversity of microbial life: viruses,
-bacteria, archaea, fungi, and protists; and how these organisms
-shape their local environments and the planet as a whole. Students learn how microbes
-function alone, in relation to one another, with their hosts, and
-collectively drive major changes in environments.
+Microbes are everywhere and life on Earth depends on them. They inhabit virtually every environment, from the deepest oceans and volcanic soils to groundwater, coral reefs, and the human body. They recycle the elements that sustain life, shape ecosystems, influence climate, cause and prevent disease, and can even be harnessed to clean polluted environments and treat water.
 
-The course consists of three hours of lecture per week (3 credits), with class
-discussions and case studies woven throughout. Optional readings are
-provided for students who want to go deeper on specific topics. Grades
-are based on four exams and a final project and
-presentation. This is in person course, no on line option.
+In this course, we explore who microbes are, what they do, and why they matter. We begin with microbial diversity: from viruses and bacteria to archaea, fungi, protists, and other microbial eukaryotes and the methods scientists use to study them. We then examine how microorganisms drive major biogeochemical cycles and shape microbial communities across marine, freshwater, soil, and host-associated environments. Particular attention is given to water and environmental microbiology, including pollution, waterborne pathogens, disease transmission, water quality, antibiotic resistance, water treatment, and quantitative microbial risk assessment. We also explore microbial applications in bioremediation, harmful algal blooms, and water treatment, as well as the microbiomes of soils, corals, and humans.
+
+Hawaiʻi and the tropical Pacific serve as an important context throughout the course, providing opportunities to connect fundamental principles of microbial ecology with real environmental and public-health questions and concers. Through lectures, discussions, demonstrations, and student presentations, students will develop an understanding of how microorganisms function as individuals, interact within communities, and drive processes that affect ecosystems and human well-being.
+
+This is an in-person, 3-credit lecture course, meeting three hours per week. The course does not have an online option. Class sessions combine lectures, case studies, and demonstrations. Optional readings are provided for students who wish to explore selected topics in greater depth.
 
 **Course objectives:**
 - Acquire depth and breadth of knowledge about the biology of diverse microbial groups, their roles in essential ecosystem processes, and their contribution to environmental health
