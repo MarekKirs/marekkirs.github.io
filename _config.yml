@@ -35,6 +35,8 @@ nav_pages:
     url: /publications/
   - title: Data
     url: /data/
+  - title: Courses
+    url: /courses/
   - title: Join Us
     url: /join/
   - title: Donate
