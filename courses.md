@@ -32,7 +32,7 @@ presentation. This is in person course, no on line option.
   ### Course modules and topics
 
 **Module 1: Microbial Diversity and methods in microbial ecology**
-- Introduction; the biosphere and origin of life; endosymbiosis theory, taxonomy, systematics, and nomenclature; diversity, nutritional types
+- Introduction; the biosphere and origin of life; endosymbiosis theory, taxonomy, systematics and nomenclature, diversity, nutritional types
 - Bacteria & Archaea
 - Cyanobacteria and microbial eukaryotes
 - Fungi & Oomycetes
@@ -57,8 +57,7 @@ presentation. This is in person course, no on line option.
 - Is everything everywhere? Microbial Biogeography
 - Water and Microbes: habitats and challenges for microbes
 - Marine Environments (oceans, seas) (Huthchinson paradox, Redfield Ratio, Zobel & G-, Dom & POM, microbial loop, mixotrophy) 
-- Freshwater (mainly) Environments (streams, lakes, groundwater):  types and turnover, eutrophication,
-- Groundwater (continued) / Pollution of Aquatic Systems
+- Freshwater (mainly) Environments (lakes, groundwater):  lake types and turnover, eutrophication,
 - Pollution of Aquatic Systems
 - Waterborne Pathogens, Disease Transmission, and Global Change
 - Water Quality Regulations, Epidemiological Studies, and QMRA
