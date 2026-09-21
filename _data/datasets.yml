@@ -2,6 +2,14 @@
 # Put the actual files in assets/data/<a-short-slug>/ (one folder per
 # manuscript) and point raw_data_file / code_file at that path.
 # Leave a field as "" to hide that link/badge for an entry.
+- title: "[Manuscript title]"
+  authors: "[Author list]"
+  venue: "[Journal name] (under review)"
+  doi_url: ""
+  repo_url: "https://github.com/MarekKirs/HawaiiStreams-2026"
+  raw_data_file: ""
+  code_file: ""
+  notes: "Manuscript currently under review; code repository is public in advance of publication."
 
 - title: "Integrating microbial source tracking with fecal indicator bacteria monitoring improves water quality assessment in tropical island watersheds"
   authors: "Jabin NJ, Scanlan T, Solaita P, Kirs M"
