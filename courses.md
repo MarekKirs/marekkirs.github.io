@@ -27,15 +27,15 @@ This is an in-person, 3-credit lecture course, meeting three hours per week. The
   ### Course modules and topics
 
 **Module 1: Microbial Diversity and methods in microbial ecology**
-- Introduction; the biosphere and origin of life; endosymbiosis theory, taxonomy, systematics and nomenclature, diversity, nutritional types
+- Introduction; the biosphere and origin of life; endosymbiosis theory, taxonomy, systematics and nomenclature.
+- Introduction: microbial diversity, richness, evenness; nutritional types, Vinogradsky column
 - Bacteria & Archaea
 - Cyanobacteria and microbial eukaryotes
 - Fungi & Oomycetes
 - Viruses, including phages
 - Methods #1: cultivation-based approaches
 - Methods #2: molecular approaches
-- Lab demonstration 1
-- Lab demonstration 2
+- Lab demonstration 1 and 2
 
 *Exam 1 covers Module 1*
 
@@ -51,7 +51,7 @@ This is an in-person, 3-credit lecture course, meeting three hours per week. The
 - Is everything everywhere? Microbial Biogeography
 - Water and Microbes: habitats and challenges for microbes
 - Marine Environments (oceans, seas) (Huthchinson paradox, Redfield Ratio, Zobel & G-, Dom & POM, microbial loop, mixotrophy) 
-- Freshwater (mainly) Environments (lakes, groundwater):  lake types and turnover, eutrophication,
+- Freshwater (mainly) Environments (lakes, groundwater):  lake types and turnover, lake aging and eutrophication, microbes in water column.
 - Pollution of Aquatic Systems
 - Waterborne Pathogens, Disease Transmission, and Global Change
 - Water Quality Regulations, Epidemiological Studies, and QMRA
