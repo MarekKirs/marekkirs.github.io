@@ -22,7 +22,7 @@ permalink: /contact/
 <div class="contact-block">
   <h3>Find us online</h3>
   <p>
-    {% if site.facebook_url != "" %}<a href="{{ site.fecebook_url }}">Facebook</a><br>{% endif %}
+    {% if site.facebook_url != "" %}<a href="{{ site.facebook_url }}">Facebook</a><br>{% endif %}
     {% if site.github_url != "" %}<a href="{{ site.github_url }}">GitHub</a><br>{% endif %}
     {% if site.scholar_url != "" %}<a href="{{ site.scholar_url }}">Google Scholar</a><br>{% endif %}
     {% if site.linkedin_url != "" %}<a href="{{ site.linkedin_url }}">LinkedIn</a>{% endif %}
