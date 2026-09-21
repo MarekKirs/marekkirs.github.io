@@ -27,9 +27,9 @@ This is an in-person, 3-credit lecture course, meeting three hours per week. The
   ### Course modules and topics
 
 **Module 1: Microbial Diversity and methods in microbial ecology**
-- Introduction; the biosphere and origin of life; endosymbiosis theory, taxonomy, systematics and nomenclature.
-- Introduction: microbial diversity, richness, evenness; nutritional types, Vinogradsky column
-- Bacteria & Archaea
+- Introduction; the biosphere and origin of life; endosymbiosis theory, taxonomy, systematics and nomenclature, phylogeny
+- Introduction: major terms (-philic, -obic), microbial diversity, richness, evenness; nutritional types, Vinogradsky column
+- Bacteria & Archaea; 3 domains or perhaps 2?
 - Cyanobacteria and microbial eukaryotes
 - Fungi & Oomycetes
 - Viruses, including phages
