@@ -2,13 +2,7 @@
 # 'group' controls which section they appear under on the Team page.
 # Valid groups: pi, postdoc, grad, undergrad, staff, alumni
 
-- name: "Dr. Marek Kirs"
-  role: "Associate Researcher, Principal Investigator"
-  group: pi
-  photo: "/assets/images/people/kirs.jpg"
-  bio: "Marek received his MSc with distinction from the University of Edinburgh/Royal Botanic Garden Edinburgh, PhD from the University of Rhode Island and completed postdoctoral work at the University of North Carolina at Chapel Hill before starting the lab in 2011."
-  email: "kirs@hawaii.edu"
-  website: ""
+
 
 #- name: "Alex Doe"
 #  role: "Postdoctoral Researcher"
@@ -49,6 +43,13 @@
 #  bio: "Sam is a [year] majoring in [major], working on [project]."
 #  email: ""
 #  website: ""
+- name: "Dr. Marek Kirs"
+  role: "Associate Researcher, Principal Investigator"
+  group: pi
+  photo: "/assets/images/people/kirs.jpg"
+  bio: "Marek received his MSc with distinction from the University of Edinburgh/Royal Botanic Garden Edinburgh, PhD from the University of Rhode Island and completed postdoctoral work at the University of North Carolina at Chapel Hill before starting the lab in 2011."
+  email: "kirs@hawaii.edu"
+  website: ""
 
 - name: "Dr. Gayatri Vithanage"
   role: "postdoc"
