@@ -14,7 +14,7 @@ quickly to emerging water-quality concerns in our island communities.
 
 ## Ways to give
 
-Gifts can be made online through the University of Hawaiʻi Foundation. Please search and select Microbial Water Quality Research (account number 126-9910-4) or Water Quality Proj (account number 120-9710-4) if interested to support water quality research and students involved here:
+Gifts can be made online through the University of Hawaiʻi Foundation. Please search and select Water Quality Proj (account number 120-9710-4) if interested to support water quality research and students involved here:
 <p>
   <a href="https://give.uhfoundation.org/campaigns/63435/donations/new" class="donate-button">Give Online</a>
 </p>
