@@ -10,7 +10,7 @@ The Kirs Lab studies microbial water quality across Hawaiʻi and the Pacific Isl
 
 ## Research area 1: Recreational water quality: Microbial indicators, Microbial Source Tracking (MST), enteric pathogens, and QMRA
 
-Is the water safe to swim in? Recreational water quality is currently evaluated using microbial water-quality indicators, most commonly enterococci and *Escherichia coli*. These bacteria are normal components of the intestinal microbiota of humans and animals and, by themselves, typically do not cause illness.Instead, their presence and abundance are used as proxy of fecal contamination and potential exposure to enteric pathogens that can cause gastrointestinal illness.
+Is the water safe to swim in? Recreational water quality is currently evaluated using microbial water-quality indicators, most commonly enterococci and *Escherichia coli*. These bacteria are normal components of the intestinal microbiota of humans and animals and, by themselves, typically do not cause illness. Instead, their presence and abundance are used as proxy of fecal contamination and potential exposure to enteric pathogens that can cause gastrointestinal illness.
 
 However, the use of these indicators presents several important challenges in tropical environments such as Hawaiʻi. First, enterococci and *E. coli* can be naturally abundant in moist tropical soils and freshwater environments. Rainfall can wash these bacteria from soils and other surfaces into streams and, ultimately, coastal waters, resulting in elevated indicator concentrations even in the absence of recent sewage contamination.
 
