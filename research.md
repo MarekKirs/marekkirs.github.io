@@ -48,7 +48,7 @@ Understanding where these pathogens occur, how they get transported or persist i
 
 We are interested in alternative water resources, including roof-harvested rainwater, as well as innovative approaches to water and wastewater treatment and reuse. Our research evaluates the microbiological quality of these water sources and treatment systems, with the goal of understanding potential health risks and identifying approaches that can support safe and sustainable water use.
 
-The mission of our Water Resources Research Center is to support Hawaiʻi in addressing its water-resource challenges. As part of this mission, our laboratory provides microbiological expertise and research support to state agencies as emerging water-quality issues arise. We work collaboratively with agencies to investigate microbial contamination, identify potential sources and health risks, and develop scientifically based approaches for addressing microbiological water-quality concerns.
+The mission of our Water Resources Research Center is to support Hawaiʻi and other Pacific islands in addressing its water-resource challenges. As part of this mission, our laboratory provides microbiological expertise and research support to state agencies as emerging water-quality issues arise. We work collaboratively with agencies to investigate microbial contamination, identify potential sources and health risks, and develop scientifically based approaches for addressing microbiological water-quality concerns.
 
 ![research focus](/assets/images/res.jpg)
 
