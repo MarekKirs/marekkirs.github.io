@@ -20,7 +20,7 @@ Finally, conventional indicators are not source-specific. Elevated *E. coli* or 
 
 Our research examines conventional and alternative microbial indicators, microbial source-tracking markers, and enteric pathogens in streams and coastal waters. Our overarching goal is to help the state and other Pacific islands develop meaningful recreational water-quality standards by linking measured microbial contamination to actual risks of human illness. We use quantitative microbial risk assessment (QMRA) to evaluate relationships between pathogens based health risk and microbial indicators.
 
-An important component of our research is recognizing that contamination sources can vary substantially among watersheds, from ahupuaʻa to ahupuaʻa. We develop and evaluate methods for identifying and distinguishing sources of fecal contamination, allowing us to characterize watersheds according to their dominant contamination sources. Identifying the source is critical because we cannot effectively manage contamination unless we know where it is coming from.
+An important component of our research is, recognizing that contamination sources can vary substantially among watersheds, from ahupuaʻa to ahupuaʻa, to develop and evaluate methods for identifying and distinguishing sources of fecal contamination, allowing us to characterize watersheds according to their dominant contamination sources. Identifying the source is critical because we cannot effectively manage contamination unless we know where it is coming from.
 
 We also contribute to the state of Hawaii beach-water quality monitoring program. 
 
