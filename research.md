@@ -6,7 +6,7 @@ permalink: /research/
 
 # Research
 
-The Kirs Lab studies microbial water quality across Hawaiʻi and the Pacific Islands to protect public health and support sustainable water resource use. 
+The Kirs Lab studies microbial water quality across Hawaiʻi and the Pacific Islands to protect public health and support sustainable water use. 
 
 ## Research area 1: Recreational water quality: Microbial indicators, Microbial Source Tracking (MST), enteric pathogens, and QMRA
 
