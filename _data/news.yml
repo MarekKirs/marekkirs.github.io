@@ -1,6 +1,14 @@
 # Edit this file to add news items. Shown newest-first automatically.
 # Date format: YYYY-MM-DD
 
+- date: "2026-10-09"
+  title: "Beach Sand Study"
+  summary: "Dr. João Brandão is visiting us for a full week. We are exploring fungi, indicator bacteria, and MST markers in Hawaii beach sand" 
+
+- date: "2026-10-05"
+  title: "Diksha's seminar"
+  summary: "Diksha gave  talk \"Rapid Detection of *Vibrio coralliilyticus* and Characterisation of Bacterial Communities in Shellfish Hatcheries and Coral Nurseries in Hawaii.\" for the Microbiology seminar series at the UH Manoa." 
+
 - date: "2026-09-19"
   title: "HI-ASM Fall Meeting 2016"
   summary: "We participated in the HI-ASM fall meeting and lecture at the Honolulu Country Club"
