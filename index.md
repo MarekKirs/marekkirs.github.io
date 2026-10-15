@@ -34,7 +34,7 @@ title: KirsLab
 <div class="news-item">
   <div class="news-date">{{ item.date }}</div>
   <strong>{{ item.title }}</strong>
-  <p>{{ item.summary }}</p>
+  <p>{{ item.summary | markdownify }}</p>
   {% if item.link %}<a href="{{ item.link }}">Read more &rarr;</a>{% endif %}
 </div>
 {% endfor %}
